@@ -1,0 +1,27 @@
+------------- Curso HTML/CSS -------------
+
+HTML: Linguagem de marcação, focada em conteúdos.
+CSS: Folha de estilo em cascata, focada em design.
+JS: Trabalha com interações do site.
+
+Site para saber quais tags estão obsoletas: https://html.spec.whatwg.org/multipage/
+
+Funcionamento da internet:
+	1.0 Site tabela Unicode e UTF-8: https://www.ime.usp.br/~pf/algoritmos/apend/unicode.html
+	2.0 Site para saber o seu ip: https://www.iplocation.net/
+	3.0 DNS: Domain name system, é um servidor de domínio onde a internet busca o número do domínio de um site por exemplo, depois busca no servidor
+	endereço de um site.
+	4.0 UTF-8 adiciona ao documento atual o suporte a caracteres acentuados.
+	
+Domínio de hospedagem
+	1.0 Domínio é o nome que identifiva o seu site. (Nome Único) / Hospedagem: é o local onde meu site fica armazenado.
+	2.0 URL: www.github.com/marsmends
+	3.0 Explicando uma URL:|www é um sub-domínio| github.com é um domínio | .com é o TLD | e após o "/" é o caminho.
+	
+Diferença de HTML/CSS
+	1.0 No HTML: tag para título: <h1> Exemplo de título </h1>. </h1> é o fechamento da tag e o  que esta entre aspas é o conteúdo.
+	Algumas não possuem fechamento, como <img src"foto.png" alt="Exemplo de foto" o alt é o parametro e o que esta entre aspas é o valor e
+	< é a abertura da tag.
+	2.0 No CSS: Utiliza seletores, ex: h1{ dentro você coloca linhas e nas linhas tem declarações como: font-family: Arial;
+	e um exemplo de valor: colo: blue; Todas com ; no final.} 
+	
