@@ -23,5 +23,10 @@ Diferença de HTML/CSS
 	Algumas não possuem fechamento, como <img src"foto.png" alt="Exemplo de foto" o alt é o parametro e o que esta entre aspas é o valor e
 	< é a abertura da tag.
 	2.0 No CSS: Utiliza seletores, ex: h1{ dentro você coloca linhas e nas linhas tem declarações como: font-family: Arial;
-	e um exemplo de valor: colo: blue; Todas com ; no final.} 
+	e um exemplo de valor: colo: blue; Todas com ; no final.}
 	
+	
+Parágrafos e quebras de linhas
+	1.0 tag <p> </p> é para parágrafos. Tag <br> quebra linha. Caso deseje colocar o simbolo da tag no é necessário usar o caractere especial
+		&lt;p&gt; e &lt;/p&gt;
+	2.0
