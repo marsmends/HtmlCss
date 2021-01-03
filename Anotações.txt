@@ -29,4 +29,7 @@ Diferença de HTML/CSS
 Parágrafos e quebras de linhas
 	1.0 tag <p> </p> é para parágrafos. Tag <br> quebra linha. Caso deseje colocar o simbolo da tag no é necessário usar o caractere especial
 		&lt;p&gt; e &lt;/p&gt;
-	2.0
+		
+Formatos de Imagens
+	1.0 Formato JPEG serve para imagens com alta compactação. Formatos PNG serve para imagens com transparencia e alta qualidade.
+	
