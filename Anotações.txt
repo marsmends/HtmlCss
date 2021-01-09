@@ -32,9 +32,13 @@ Parágrafos e quebras de linhas
 		
 Formatos de Imagens
 	1.0 Formato JPEG serve para imagens com alta compactação. Formatos PNG serve para imagens com transparencia e alta qualidade.
+	2.0 Para adicionar emojis: &#x
 	
 Links
 	1.0 Para acesso de uma página que esta dentro de de uma pasta se atentar ao caminho do href e para voltar a pasta anterior utilizar no href: 
 	../colocar o nome da página.
 	./ siginifica a própria pasta.
 	2.0 Colocar uma # no href enquanto não se coloca um link quer dizer que ele é um link vazio.
+	
+Formatos de músicas e videos
+	1.0 Colocando o source src com vários tipos de formatos garante que o sistema tente executar os vídeos visto que os navegadores dos úsuarios são diversos.
