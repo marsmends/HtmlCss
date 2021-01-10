@@ -44,3 +44,9 @@ Formatos de músicas e videos
 	1.0 Colocando o source src com vários tipos de formatos garante que o sistema tente executar os vídeos visto que os navegadores dos úsuarios são diversos.
 	2.0 poster: da um poster pro seu video.
 	3.0 Há 2 boas opções de hospedar videos que é o youtube e o vimeo. No vimeo ha opção de deixar privado só que pagando um valor mensal.
+	
+Estilo inline em CSS
+	1.0 Se desejar nas tags posso fazer a mudança do estilo: <body style="background-color: escolho a cor que eu desejo;">
+	
+Estilo CSS interno
+	1.0 Funciona criando a tag style dentro de head e usando seletores como: h1{}, body {}
